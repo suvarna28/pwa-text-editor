@@ -29,10 +29,10 @@ N/A
 
 * Please see the screenshots below
 
-![Main Webpage](./Develop/screenshots/jate-homepage.png)
-![Main Webpage](./Develop/screenshots/jate-manifest.png)
-![Main Webpage](./Develop/screenshots/jate-serviceworkers.png)
-![Main Webpage](./Develop/screenshots/jate-indexDB.png)
+![Main Webpage](./screenshots/jate-homepage.png)
+![Main Webpage](./screenshots/jate-manifest.png)
+![Main Webpage](./screenshots/jate-serviceworkers.png)
+![Main Webpage](./screenshots/jate-indexDB.png)
 
 ## Link to the GitHub repo of the application
 
