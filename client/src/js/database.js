@@ -12,6 +12,7 @@ const initdb = async () =>
     },
   });
 
+  
 // Export a function we will use to PUT to the database.
 export const putDb = async (content) => {
   console.log('Add content to the database');
