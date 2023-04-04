@@ -40,8 +40,8 @@ https://github.com/suvarna28/pwa-text-editor
 
 ## Link to the deployed application on Heroku
 
-
+https://polar-journey-99171.herokuapp.com/
 
 ## Credits
 
-* All the module activities and mini project.
+* All the module activities and mini project. Phill and Sebastian for helping with the heroku deployment. 
