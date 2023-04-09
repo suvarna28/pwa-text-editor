@@ -19,11 +19,15 @@ The application can be invoked by using 'npm run start' command.
 
 ## Features
 
-* The features are same as explained in the description, please refer above.
+* The features are same as explained in the description, please refer above. In addition, as explained in the description, this application can be downloaded and used offline without internet connection, your changes will be synced once you have the internet connection. 
 
-## Installation
+## Installation and Technologies Used
 
-N/A
+* VS Code
+* Git
+* Nodejs
+* Express
+* Heroku: For deployment only
 
 ## Screenshot
 
@@ -45,3 +49,7 @@ https://polar-journey-99171.herokuapp.com/
 ## Credits
 
 * All the module activities and mini project. Phill and Sebastian for helping with the heroku deployment. 
+
+## Author
+
+My name is Suvarna Jadhav. You can checkout my GitHub profile [here](https://github.com/suvarna28)!!
