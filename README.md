@@ -52,4 +52,4 @@ https://polar-journey-99171.herokuapp.com/
 
 ## Author
 
-My name is Suvarna Jadhav. You can checkout my GitHub profile [here](https://github.com/suvarna28)!!
+My name is Suvarna Jadhav. You can checkout my GitHub profile [here](https://github.com/suvarna28)!! You can reach me at jadhav.suvarna28@gmail.com 
